@@ -17,6 +17,8 @@
 - Pixi.js
 - Python
 - Django
+- Numpy
+- Pandas
 
 <br>
 
