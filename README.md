@@ -10,24 +10,20 @@ Redux가 아닌 Context API를 이용한 상태 관리를 공부하고 있습니
 <br>
 
 ## 기술 스택
-- HTML
-- CSS
-- SCSS
-- JavaScript
-- TypeScript
-- REST API
-- React.js
-- Redux
-- D3.js
-- Canvas
-- Three.js
-- Pixi.js
-- p5.js
-- Python
-- Django
-- Numpy
-- Pandas
-- Matplotlib
+<img width="50" src="./icons/html.svg" alt="html"/>
+<img width="50" src="./icons/css.svg" alt="css"/>
+<img width="50" src="./icons/sass.svg" alt="sass"/>
+<img width="50" src="./icons/javascript.svg" alt="javascript"/>
+<img width="50" src="./icons/typescript.svg" alt="typescript"/>
+<img width="50" src="./icons/react.svg" alt="react"/>
+<img width="50" src="./icons/redux-action.svg" alt="redux-action"/>
+<img width="50" src="./icons/vue.svg" alt="vue"/>
+<img width="50" src="./icons/vuex-store.svg" alt="vuex-store"/>
+<img width="50" src="./icons/nest.svg" alt="nest"/>
+<img width="50" src="./icons/python.svg" alt="python"/>
+<img width="50" src="./icons/django.svg" alt="django"/>
+<img width="50" src="./icons/git.svg" alt="git"/>
+
 
 <br>
 
