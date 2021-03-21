@@ -15,4 +15,8 @@ Redux가 아닌 Context API를 이용한 상태 관리를 공부하고 있습니
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enginecode-cpu&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 [![enginecode-cpu's github stats](https://github-readme-stats.vercel.app/api?username=enginecode-cpu)](https://github.com/anuraghazra/github-readme-stats)
